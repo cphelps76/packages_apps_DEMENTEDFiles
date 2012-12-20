@@ -29,7 +29,7 @@
          * holo: @android:style/Theme.Holo
          * holo_light: @android:style/Theme.Holo.Light
   -->
-  <string name="base_theme">holo_light</string>
+  <string name="base_theme">holo_dark</string>
 
   <!-- The image preview -->
   <drawable name="theme_preview_drawable">@drawable/theme_preview</drawable>
@@ -76,9 +76,9 @@
   <drawable name="expander_open_drawable">@drawable/ic_holo_light_expander_open</drawable>
 
   <!-- The text color of TextView controls -->
-  <color name="text_color">@color/black_transparent</color>
+  <color name="text_color">@color/demented_blue</color>
   <!-- The text color of Dialog -->
-  <color name="dialog_text_color">@android:color/holo_blue_dark</color>
+  <color name="dialog_text_color">@color/demented_blue</color>
 
   <!-- The highlight color for terms found in the search result -->
   <color name="search_highlight_color">@color/search_highlight</color>

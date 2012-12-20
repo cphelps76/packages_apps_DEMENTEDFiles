@@ -17,9 +17,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
   <!-- The name of the application -->
-  <string name="app_name">File Manager</string>
+  <string name="app_name">DEMENTED Files</string>
   <!-- The description of the application -->
-  <string name="app_description">A CyanogenMod file manager.</string>
+  <string name="app_description">A DEMENTED file manager.</string>
 
   <!-- Human readable sizes -->
   <string name="size_bytes" translatable="false">B</string>
