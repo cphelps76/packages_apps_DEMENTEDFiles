@@ -25,7 +25,7 @@ LOCAL_RESOURCE_DIR := $(addprefix $(LOCAL_PATH)/, themes/res res)
 LOCAL_AAPT_INCLUDE_ALL_RESOURCES := true
 LOCAL_AAPT_FLAGS := --auto-add-overlay
 
-LOCAL_PACKAGE_NAME := CMFileManager
+LOCAL_PACKAGE_NAME := DEMENTEDFiles
 LOCAL_CERTIFICATE := platform
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 
