@@ -16,9 +16,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
   <!-- The name of the app -->
-  <string name="app_name">File Manager</string>
+  <string name="app_name">DEMENTEDFiles</string>
   <!-- The description of the app -->
-  <string name="app_description">A CyanogenMod file manager.</string>
+  <string name="app_description">File System Management</string>
 
   <!-- Human readable sizes -->
   <string name="size_bytes">B</string>
@@ -645,7 +645,7 @@
   <string name="pref_about">About</string>
   <!-- Preferences * About summary -->
   <string name="pref_about_summary">File Manager v<xliff:g id="version">%1$s</xliff:g>
-    \nCopyright \u00A9 2013 The CyanogenMod Project</string>
+    \nCopyright \u00A9 2013 DEMENTED Droid</string>
 
   <!-- Preferences * General * Behaviour category -->
   <string name="pref_general_behaviour_category">General</string>
@@ -805,11 +805,10 @@
   <string name="welcome_title">Welcome</string>
   <!-- Welcome Dialog * Message -->
   <string name="welcome_msg">
-    Welcome to the CyanogenMod file manager.
+    Welcome to the DEMENTED file manager.
     \n\nThis app allows you to explore the file system and do operations that could break
     your device. To prevent damage, the app will start in a safe, low-privileged mode.
     \n\nYou can access the advanced, full-privileged mode via Settings. It\'s your
-    responsibility to ensure that an operation doesn\'t break your system.
-    \n\nThe CyanogenMod Team.\n</string>
+    responsibility to ensure that an operation doesn\'t break your system.\n</string>
 
 </resources>
